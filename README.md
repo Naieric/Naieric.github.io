@@ -1,4 +1,4 @@
 # 6530250166.github.io
 - Pichanat
   - nai
-<img src="assets/your-image.jpg" alt="Description of image">
+<img src="assets/IMG_0026.jpeg" alt="Description of image">
