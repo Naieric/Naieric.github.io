@@ -6,6 +6,6 @@
 
 [AUTHENTICATION](authentication)
 
-[KEYWORD](multi-condition-coverage)
+[Multi Condition Coverage](multi-condition-coverage)
 
-[thanabordee repo](https://github.com/realalunda/realalunda.github.io)
+[Thanabordee repo](https://github.com/realalunda/realalunda.github.io)
