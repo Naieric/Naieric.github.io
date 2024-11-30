@@ -8,4 +8,4 @@
 
 [KEYWORD](multi-condition-coverage)
 
-[My Friend](https://github.com/realalunda/realalunda.github.io)
+[thanabordee repo](https://github.com/realalunda/realalunda.github.io)
