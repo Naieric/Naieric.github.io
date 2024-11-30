@@ -2,6 +2,6 @@
 - Pichanat
   - nai
 
-![cat](img/IMG_0026)
+![cat](IMG_0026.jpeg)
 
 [AUTHENTICATION](authentication)
