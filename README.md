@@ -6,6 +6,6 @@
 
 [AUTHENTICATION](authentication)
 
-[KEYWORD](Multi-condition-coverage)
+[KEYWORD](multi-condition-coverage)
 
 [My Friend](https://github.com/realalunda/realalunda.github.io)
