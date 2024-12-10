@@ -2,7 +2,7 @@
 - Pichanat
   - nai
 
-![Myself](145610.jpg)
+![Myself](image/145610.jpg)
 
 [AUTHENTICATION](authentication)
 
