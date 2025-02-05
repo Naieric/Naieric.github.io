@@ -6,4 +6,4 @@
 
 - หลักฐานภาพถ่าย check in
 
-![pic](image/PAO_Election.jpg)
+![pic](image/PAO-Election.jpg)
