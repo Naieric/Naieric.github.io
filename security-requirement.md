@@ -24,5 +24,7 @@
 
  
 **Members**
-[ุ6530250166 นายพิชานัต พรหมณี](https://naieric.github.io/security-requirement.html)
+
+[6530250166 นายพิชานัต พรหมณี](https://naieric.github.io/security-requirement.html)
+
 [6530250395 นายธนบดี บุญสุข](https://realalunda.github.io/security-requirement.html)
